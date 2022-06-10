@@ -1,0 +1,2 @@
+Program requires 1 argument(filename) and after launch prints sids in file "sids.txt"
+
